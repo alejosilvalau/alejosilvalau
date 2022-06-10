@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <p>I'm currently a <strong>freelance software engineer</strong> 💻 and pursuing my <strong>Masters Degree in "Computer Science"</strong>📜. I am working on some side projects, learning a couple new dishes, and trying to conquer the computer world 👾.</p>
 
-<p align="center">💧 Don't forget to hydrate 💧</p>
-
 <h2>🔍 Reach Me At</h2>
 
 <p align="center">
@@ -31,7 +29,9 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100078914406655"><img src="https://img.shields.io/badge/-Facebook-1977f2?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook"></a>
 </p>
 
-<img align="right" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="developer"/>
+<p align="center">💧 Don't forget to hydrate 💧</p>
+
+<img align="right" src="https://i.gifer.com/5SM.gif" alt="developer"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/alejosilvalau/memories">Memories</a>.</li>
