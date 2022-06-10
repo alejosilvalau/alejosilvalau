@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">💧 Don't forget to hydrate 💧</p>
 
-<img align="right" src="https://c.tenor.com/-JIgHIMq1u8AAAAC/cool.gif" alt="developer"/>
+<img align="right" width="400px" src="https://c.tenor.com/-JIgHIMq1u8AAAAC/cool.gif" alt="developer"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/alejosilvalau/memories">Memories</a>.</li>
