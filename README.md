@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <p>I'm currently a <strong>freelance software engineer</strong> 💻 and pursuing my <strong>Masters Degree in "Computer Science"</strong>📜. I am working on some side projects, learning a couple new dishes, and trying to conquer the computer world 👾.</p>
 
+<p align="center">💧 Don't forget to hydrate 💧</p>
+
 <h2>🔍 Reach Me At</h2>
 
 <p align="center">
@@ -28,7 +30,6 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.instagram.com/alejosilvalau"><img src="https://img.shields.io/badge/-Instagram-dc1b52?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"></a>
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100078914406655"><img src="https://img.shields.io/badge/-Facebook-1977f2?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook"></a>
 </p>
-<p align="center">💧 Don't forget to hydrate 💧</p>
 
 <img align="right" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="developer"/>
 <h2>⚡️ A Few Quick Facts</h2>
@@ -57,7 +58,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="25" height="25" />
@@ -71,4 +71,11 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="25" height="25" />
+</p>
+
+<h2>📉 Profile stats</h2>
+<br>
+<p align="center">
+<img width="370px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" />
+<img width="370px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alejosilvalau&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </p>
