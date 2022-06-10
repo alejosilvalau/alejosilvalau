@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2>Hey 👋, I'm <a href="https://alejosilvalau.netlify.app">Alejo</a></h2>
 
-<p>I'm currently a <strong>freelance software engineer</strong> 💻 and pursuing my <strong>Masters Degree in "Computer Science"</strong>📜. I am working on some side projects, learning a couple new dishes, and trying to conquer the computer world 👾.</p>
+<p align="center">I'm currently a <strong>freelance software engineer</strong> 💻 and pursuing my <strong>Masters Degree in "Computer Science"</strong>📜. I am working on some side projects, learning a couple new dishes, and trying to conquer the computer world 👾.</p>
 
 <h2>🔍 Reach Me At</h2>
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
