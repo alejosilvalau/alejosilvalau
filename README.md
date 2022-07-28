@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100078914406655"><img src="https://img.shields.io/badge/-Facebook-1977f2?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook"></a>
 </p>
 
-<p align="center">💧 Don't forget to hydrate 💧</p>
+<p align="center">🍫 Don't forget to eat chocolate 🍫</p>
 
 <img align="right" width="400px" src="https://c.tenor.com/-JIgHIMq1u8AAAAC/cool.gif" alt="developer"/>
 <h2>⚡️ A Few Quick Facts</h2>
