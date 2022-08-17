@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <li>🔭 I’m currently working on <a href="https://github.com/alejosilvalau/memories">Memories</a>.</li>
 <li>🧐 Learning about <strong>Blockchain</strong> and <strong>Decentralized Networks</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/alejosilvalau">Github</a>.</li>
-<li>💬 Ping me about <strong>React, Solidity, Unity, and Backend stuff</strong>.</li>
+<li>💬 Ping me about <strong>React, Blockchain, Unity, and Backend stuff</strong>.</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/15mDixdI85_WkRptlw6GZvhu_RuQUOTM2/view?usp=sharing" alt="cv">resume</a>.</li>
 <li>🎉 Fun Fact: I speak 🇪🇸  🇬🇧  🇮🇹.</li>
 </ul>
