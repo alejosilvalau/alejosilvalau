@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <li>🧐 Learning about <strong>Blockchain</strong> and <strong>Decentralized Networks</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/alejosilvalau">Github</a>.</li>
 <li>💬 Ping me about <strong>React, Blockchain, Unity, and Backend stuff</strong>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/15mDixdI85_WkRptlw6GZvhu_RuQUOTM2/view?usp=sharing" alt="cv">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1mEldk4TDs97agI0RyUSo2f8h_AhhADDg/view?usp=share_link" alt="cv">resume</a>.</li>
 <li>🎉 Fun Fact: I speak 🇪🇸  🇬🇧  🇮🇹.</li>
 </ul>
 
