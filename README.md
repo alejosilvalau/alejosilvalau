@@ -13,16 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<link rel="stylesheet" href="styles.css" />
-
 <h2>Hey 👋, I'm <a href="https://alejosilvalau.netlify.app">Alejo</a></h2>
 
-<p>
-  I'm currently a <strong>Freelance Full Stack Blockchain Engineer</strong> 💻
-  and pursuing my <strong>Masters Degree in "Computer Science"</strong>📜. I am
-  working on some side projects, learning a couple new dishes, and trying to
-  conquer the computer world 👾.
-</p>
+<div align="center">
+  <p><strong>📱 Web Developer and Web Designer </strong></p><br>
+  <p><strong>📢 Expert in Front End technologies and SEO </strong></p><br>
+  <p>📜 Currently pursuing my <strong> Masters Degree in "Computer Science"</strong></p>
+</div>
 
 <h2>🔍 Reach Me At</h2>
 
@@ -31,16 +28,16 @@ Here are some ideas to get you started:
     ><img
       src="https://img.shields.io/badge/-Portfolio-004aa8?style=for-the-badge&logo=Opsgenie"
       alt="portfolio"
+  /></a> 
+  <a target="_blank" href="https://www.linkedin.com/in/alejosilvalau/"
+    ><img
+      src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn"
+      alt="linkedin"
   /></a>
   <a target="_blank" href="mailto:alejo.lautaro@hotmail.com"
     ><img
       src="https://img.shields.io/badge/-Gmail-c0392b?style=for-the-badge&logo=Gmail&logoColor=white"
       alt="email"
-  /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/alejosilvalau/"
-    ><img
-      src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn"
-      alt="linkedin"
   /></a>
   <!-- <a target="_blank" href="https://tiwarivikas.medium.com/"><img src="https://img.shields.io/badge/-Medium-41464c?style=for-the-badge&logo=Medium"></a> -->
   <a target="_blank" href="https://twitter.com/alejosilvalau"
@@ -62,11 +59,12 @@ Here are some ideas to get you started:
   /></a>
 </p>
 
-<p align="center">🍫 Don't forget to eat chocolate 🍫</p>
+<p align="center">🍫 Don't forget to eat chocolate! 🍫</p>
 
 <img
   align="right"
   width="400px"
+  height="250px"
   src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"
   alt="web developer and designer"
 />
@@ -74,30 +72,30 @@ Here are some ideas to get you started:
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li>
-    🔭 I’m currently working on
-    <a href="https://github.com/alejosilvalau/commentme-web">CommentMe</a>.
+    😎 Mastering <strong>WordPress</strong> and
+    <strong>PHP</strong>
   </li>
   <li>
-    🧐 Learning about <strong>Blockchain</strong> and
-    <strong>Decentralized Networks</strong>.
+    ✍ Working on
+    <a href="https://github.com/alejosilvalau/commentme-web">CommentMe</a>
   </li>
   <li>
     👨‍💻 Most of my projects are available on
-    <a href="https://github.com/alejosilvalau">Github</a>.
+    <a href="https://github.com/alejosilvalau">Github</a>
   </li>
   <li>
     💬 Ping me about
-    <strong>React, Blockchain, Unity, and Backend stuff</strong>.
+    <strong>JavaScript, React, and WordPress</strong>
   </li>
   <li>
     📙 Check out my
     <a
-      href="https://drive.google.com/file/d/1VkdepMgHRELtZtJKiEtRDK-dXL4CiyE0/view?usp=share_link"
+      href="https://drive.google.com/file/d/1eICzNIlyEYSLyVUOveHoVagDHkyxtOGr/view?usp=share_link"
       alt="cv"
-      >resume</a
-    >.
+      >Resume</a
+    >
   </li>
-  <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹.</li>
+  <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹</li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
