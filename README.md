@@ -103,110 +103,110 @@ Here are some ideas to get you started:
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     alt="react"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
     alt="redux"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
     alt="nextjs"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
     alt="nodejs"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
     alt="express"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"
     alt="graphql"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
     alt="mysql"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
     alt="mongodb"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
     alt="wordpress"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
     alt="php"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://www.svgrepo.com/show/331577/shopify.svg"
     alt="shopify"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
     alt="html5"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
     alt="css3"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
     alt="sass"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
     alt="git"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
     alt="yarn"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
     alt="figma"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
 </p>
 
