@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">🍫 Don't forget to eat chocolate 🍫</p>
 
-<img align="right" width="400px" src="https://c.tenor.com/-JIgHIMq1u8AAAAC/cool.gif" alt="developer"/>
+<img align="right" width="400px" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="web developer and designer"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/alejosilvalau/commentme-web">CommentMe</a>.</li>
