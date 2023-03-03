@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+  li {
+    color:aqua;
+  }
+</style>
+
 <h2>Hey 👋, I'm <a href="https://alejosilvalau.netlify.app">Alejo</a></h2>
 
 <p>I'm currently a <strong>Freelance Full Stack Blockchain Engineer</strong> 💻 and pursuing my <strong>Masters Degree in "Computer Science"</strong>📜. I am working on some side projects, learning a couple new dishes, and trying to conquer the computer world 👾.</p>
