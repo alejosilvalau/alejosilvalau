@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2>Hey 👋, I'm <a href="https://alejosilvalau.netlify.app">Alejo</a></h2>
 
 <div align="center">
-  <p><strong>📱 Web Developer and Designer </strong></p><br>
+  <p><strong>📱 Web Developer and Web Designer </strong></p><br>
   <p>📢 Expert in <strong>Front End technologies and SEO </strong></p><br>
   <p>🎓 Currently pursuing my <strong> Masters Degree in "Computer Science"</strong></p>
 </div>
