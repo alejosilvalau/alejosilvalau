@@ -13,11 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  li {
-    color:aqua;
-  }
-</style>
+<link rel=“stylesheet” type=“text/css” href=“styles.css”>
 
 <h2>Hey 👋, I'm <a href="https://alejosilvalau.netlify.app">Alejo</a></h2>
 
