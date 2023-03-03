@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p><strong>📱 Web Developer and Web Designer </strong></p><br>
   <p><strong>📢 Expert in Front End technologies and SEO </strong></p><br>
-  <p>📜 Currently pursuing my <strong> Masters Degree in "Computer Science"</strong></p>
+  <p>🎓 Currently pursuing my <strong> Masters Degree in "Computer Science"</strong></p>
 </div>
 
 <h2>🔍 Reach Me At</h2>
@@ -76,11 +76,11 @@ Here are some ideas to get you started:
     <strong>PHP</strong>
   </li>
   <li>
-    ✍ Working on
+    🛠 Working on
     <a href="https://github.com/alejosilvalau/commentme-web">CommentMe</a>
   </li>
   <li>
-    👨‍💻 Most of my projects are available on
+    🈺 Most of my projects are available on
     <a href="https://github.com/alejosilvalau">Github</a>
   </li>
   <li>
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
     <strong>JavaScript, React, and WordPress</strong>
   </li>
   <li>
-    📙 Check out my
+    📜 Check out my
     <a
       href="https://drive.google.com/file/d/1eICzNIlyEYSLyVUOveHoVagDHkyxtOGr/view?usp=share_link"
       alt="cv"
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
   <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹</li>
 </ul>
 
-<h2>🚀 Some Tools I Use</h2>
+<h2>🔥 Some Tools I Use</h2>
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
