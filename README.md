@@ -191,6 +191,12 @@ Here are some ideas to get you started:
     height="35"
   />
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+    alt="bootstrap"
+    width="35"
+    height="35"
+  />
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
     alt="git"
     width="35"
