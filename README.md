@@ -107,6 +107,12 @@ Here are some ideas to get you started:
     height="35"
   />
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+    alt="jquery"
+    width="35"
+    height="35"
+  />
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     alt="react"
     width="35"
