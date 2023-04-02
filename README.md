@@ -137,6 +137,12 @@ Here are some ideas to get you started:
     height="35"
   />
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"
+    alt="d3js"
+    width="35"
+    height="35"
+  />
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
     alt="nodejs"
     width="35"
