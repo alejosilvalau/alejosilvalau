@@ -88,7 +88,7 @@ Here are some ideas to get you started:
     <strong>JavaScript, React, and WordPress</strong>
   </li>
   <li>
-    📜 Check out my
+    🎓 Check out my
     <a
       href="https://drive.google.com/file/d/1eICzNIlyEYSLyVUOveHoVagDHkyxtOGr/view?usp=share_link"
       alt="cv"
