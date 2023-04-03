@@ -80,7 +80,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/alejosilvalau/commentme-web">CommentMe</a>
   </li>
   <li>
-    💻 Take a look at my projects
+    💻 Take a look at my
     <a href="https://github.com/alejosilvalau">Github</a>
   </li>
   <li>
