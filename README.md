@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   </li>
   <li>
     👨‍💻 Working on
-    <a href="https://github.com/alejosilvalau/commentme-web">CommentMe</a>
+    <a href="alnixdigital.com">alnixdigital.com</a>
   </li>
   <li>
     💻 Take a look at my
