@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   </li>
   <li>
     👨‍💻 Working on
-    <a href="alnixdigital.com">alnixdigital.com</a>
+    <a href="https://alnixdigital.com">alnixdigital.com</a>
   </li>
   <li>
     💻 Take a look at my
