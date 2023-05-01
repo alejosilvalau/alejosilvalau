@@ -90,7 +90,7 @@ Here are some ideas to get you started:
   <li>
     🎓 Check out my
     <a
-      href="https://drive.google.com/file/d/1eICzNIlyEYSLyVUOveHoVagDHkyxtOGr/view?usp=share_link"
+      href="https://www.linkedin.com/in/alejosilvalau/"
       alt="cv"
       >Resume</a
     >
