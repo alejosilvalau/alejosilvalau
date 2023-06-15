@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hey 👋, I'm <a href="https://alejosilvalau.netlify.app">Alejo</a></h2>
+<h2>Hey 👋, I'm <a href="#">Alejo</a></h2>
 
 <div align="center">
   <p><strong>📱 Web Developer and Designer </strong></p><br>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h2>🔍 Reach Me At</h2>
 
 <p align="center">
-  <a target="_blank" href="https://alejosilvalau.netlify.app"
+  <a target="_blank" href="#"
     ><img
       src="https://img.shields.io/badge/-Portfolio-004aa8?style=for-the-badge&logo=Opsgenie"
       alt="portfolio"
