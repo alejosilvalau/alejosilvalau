@@ -34,7 +34,7 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn"
       alt="linkedin"
   /></a>
-  <a target="_blank" href="mailto:alejo.lautaro@hotmail.com"
+  <a target="_blank" href="#"
     ><img
       src="https://img.shields.io/badge/-Gmail-c0392b?style=for-the-badge&logo=Gmail&logoColor=white"
       alt="email"
