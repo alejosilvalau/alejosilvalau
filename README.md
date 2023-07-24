@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h2>🔍 Reach Me At</h2>
 
 <p align="center">
-  <a target="_blank" href="#"
+  <a target="_blank" href="https://alnixdigital.com/"
     ><img
       src="https://img.shields.io/badge/-Portfolio-004aa8?style=for-the-badge&logo=Opsgenie"
       alt="portfolio"
@@ -34,32 +34,21 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn"
       alt="linkedin"
   /></a>
-  <a target="_blank" href="#"
-    ><img
-      src="https://img.shields.io/badge/-Gmail-c0392b?style=for-the-badge&logo=Gmail&logoColor=white"
-      alt="email"
-  /></a>
-  <!-- <a target="_blank" href="https://tiwarivikas.medium.com/"><img src="https://img.shields.io/badge/-Medium-41464c?style=for-the-badge&logo=Medium"></a> -->
   <a target="_blank" href="https://twitter.com/alnixdigital"
     ><img
       src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=Twitter&logoColor=white"
       alt="twitter"
   /></a>
-  <a target="_blank" href="https://www.instagram.com/alejosilvalau"
-    ><img
-      src="https://img.shields.io/badge/-Instagram-dc1b52?style=for-the-badge&logo=Instagram&logoColor=white"
-      alt="instagram"
-  /></a>
   <a
     target="_blank"
-    href="https://www.facebook.com/profile.php?id=100078914406655"
+    href="https://www.facebook.com/profile.php?id=100095195136344"
     ><img
       src="https://img.shields.io/badge/-Facebook-1977f2?style=for-the-badge&logo=Facebook&logoColor=white"
       alt="facebook"
   /></a>
 </p>
 
-<p align="center">🍫 Don't forget to eat chocolate! 🍫</p>
+<p align="center">Don't forget to SUBSCRIBE!</p>
 
 <img
   align="right"
@@ -81,7 +70,7 @@ Here are some ideas to get you started:
   </li>
   <li>
     💻 Take a look at my
-    <a href="https://github.com/alejosilvalau">Github</a>
+    <a href="https://github.com/alnixdigital">Github</a>
   </li>
   <li>
     💬 Ping me about
@@ -90,9 +79,9 @@ Here are some ideas to get you started:
   <li>
     🎓 Check out my
     <a
-      href="https://www.linkedin.com/in/alejosilvalau/"
-      alt="cv"
-      >Resume</a
+      href="https://www.linkedin.com/company/alnixdigital"
+      alt="experiene"
+      >Experience / Case Studies</a
     >
   </li>
   <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹</li>
