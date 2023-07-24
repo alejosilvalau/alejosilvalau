@@ -36,7 +36,7 @@
   /></a>
 </p>
 
-<p align="center">Don't forget to <a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>SUBSCRIBE</strong></a>!</p>
+<p align="center">🍪 Don't forget to <a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>SUBSCRIBE</strong></a>!🍪</p>
 
 <img
   align="right"
