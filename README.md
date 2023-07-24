@@ -4,8 +4,13 @@
   <p>Crazy for Front End and SEO</p><br>
 </div>
 
-<h2>🔍 Reach Me At</h2>
+<h2>+ Info 👇</h2>
 
+  <a target="_blank" href="https://www.youtube.com/@AlnixDigital"
+    ><img
+      src="https://img.shields.io/badge/-Youtube-b2071d?style=for-the-badge&logo=Youtube&logoColor=white"
+      alt="twitter"
+  /></a>
 <p align="center">
   <a target="_blank" href="https://alnixdigital.com/"
     ><img
