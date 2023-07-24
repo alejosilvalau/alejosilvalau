@@ -36,7 +36,7 @@
   /></a>
 </p>
 
-<p align="center">Don't forget to SUBSCRIBE!</p>
+<p align="center">Don't forget to <a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>SUBSCRIBE</strong></a>!</p>
 
 <img
   align="right"
@@ -67,7 +67,7 @@
   <li>
     🎓 Check out my
     <a
-      href="https://img.shields.io/badge/-Facebook-1977f2?style=for-the-badge&logo=Facebook&logoColor=white"
+      href="https://www.facebook.com/profile.php?id=100095195136344"
       alt="experiene"
       >Experience / Case Studies</a
     >
