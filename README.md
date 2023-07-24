@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   align="right"
   width="400px"
   height="250px"
-  src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"
+  src="https://media.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif"
   alt="web developer and designer"
 />
 
