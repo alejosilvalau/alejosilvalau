@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p><a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>SUBSCRIBE</strong></a> For a Web Cookie🍪</p><br>
   <p><strong>Let's Change The World With Websites!</strong></p><br>
-  <p><strong>Front End and SEO </strong></p><br>
+  <p><strong>Crazy for Front End and SEO </strong></p><br>
 </div>
 
 <h2>🔍 Reach Me At</h2>
