@@ -1,7 +1,7 @@
 <div align="center">
-  <p><a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>SUBSCRIBE</strong></a> For a Web Cookie🍪</p><br>
-  <p><strong>Let's Change The World With Websites!</strong></p><br>
-  <p>Crazy for Front End and SEO</p><br>
+  <h1><a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>SUBSCRIBE</strong></a> For a Web Cookie🍪</h1><br>
+  <h2><strong>Let's Change The World With Websites!</strong></h2><br>
+  <h2>Crazy for Front End and SEO</h2><br>
 </div>
 
 <h2>🔍 Reach Me At</h2>
@@ -37,7 +37,7 @@
   align="right"
   width="400px"
   height="250px"
-  src="https://codinginfinite.com/wp-content/uploads/2019/05/maxresdefault-1.jpg"
+  src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"
   alt="web developer and designer"
 />
 
