@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h2>Hey 👋, I'm <a href="#">Alejo</a></h2>
 
 <div align="center">
-  <p><a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>Subscribe</strong></a> for a web cookie🍪</p><br>
-  <p><strong>📱 Web Developer and Designer </strong></p><br>
-  <p>📢 Expert in <strong>Front End and SEO </strong></p><br>
+  <p><a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>SUBSCRIBE</strong></a> For a Web Cookie🍪</p><br>
+  <p><strong>Let's Change The World With Websites!</strong></p><br>
+  <p><strong>Front End and SEO </strong></p><br>
 </div>
 
 <h2>🔍 Reach Me At</h2>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/-Portfolio-004aa8?style=for-the-badge&logo=Opsgenie"
       alt="portfolio"
   /></a> 
-  <a target="_blank" href="https://www.linkedin.com/in/alejosilvalau/"
+  <a target="_blank" href="https://www.linkedin.com/company/alnixdigital"
     ><img
       src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn"
       alt="linkedin"
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
       alt="email"
   /></a>
   <!-- <a target="_blank" href="https://tiwarivikas.medium.com/"><img src="https://img.shields.io/badge/-Medium-41464c?style=for-the-badge&logo=Medium"></a> -->
-  <a target="_blank" href="https://twitter.com/alejosilvalau"
+  <a target="_blank" href="https://twitter.com/alnixdigital"
     ><img
       src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=Twitter&logoColor=white"
       alt="twitter"
