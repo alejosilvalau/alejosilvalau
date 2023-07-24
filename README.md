@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   align="right"
   width="400px"
   height="250px"
-  src="https://thumbs.gfycat.com/ConsiderateSelfishApatosaur-max-1mb.gif"
+  src="https://codinginfinite.com/wp-content/uploads/2019/05/maxresdefault-1.jpg"
   alt="web developer and designer"
 />
 
