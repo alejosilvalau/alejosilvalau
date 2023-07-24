@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/alejosilvalau/alejosilvalau/assets/73258757/a3b89721-62d2-44b2-9ca2-ba3dc9d32ffe)<!--
 **alejosilvalau/alejosilvalau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   align="right"
   width="400px"
   height="250px"
-  src="https://media.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif"
+  src="https://thumbs.gfycat.com/ConsiderateSelfishApatosaur-max-1mb.gif"
   alt="web developer and designer"
 />
 
