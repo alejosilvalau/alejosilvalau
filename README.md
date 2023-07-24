@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h2>Hey 👋, I'm <a href="#">Alejo</a></h2>
 
 <div align="center">
+  <p><a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>Subscribe</strong></a> for a web cookie🍪</p>
   <p><strong>📱 Web Developer and Designer </strong></p><br>
-  <p>📢 Expert in <strong>Front End technologies and SEO </strong></p><br>
-  <p><a href="https://www.youtube.com/@AlnixDigital"><strong>Subscribe</strong></a> for a web cookie🍪</p>
+  <p>📢 Expert in <strong>Front End and SEO </strong></p><br>
 </div>
 
 <h2>🔍 Reach Me At</h2>
