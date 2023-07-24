@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p><strong>📱 Web Developer and Designer </strong></p><br>
   <p>📢 Expert in <strong>Front End technologies and SEO </strong></p><br>
-  <p>🎓 Currently pursuing my <strong> Masters Degree in "Computer Science"</strong></p>
+  <p><a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>Subscribe</strong></a> for a web cookie🍪</p>
 </div>
 
 <h2>🔍 Reach Me At</h2>
