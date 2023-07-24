@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   alt="web developer and designer"
 />
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>Quick Facts</h2>
 <ul>
   <li>
     🎯 Mastering <strong>WordPress</strong> and
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
     <a href="https://alnixdigital.com">alnixdigital.com</a>
   </li>
   <li>
-    💻 Take a look at my
+    💻 Take a look at our
     <a href="https://github.com/alnixdigital">Github</a>
   </li>
   <li>
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
   <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹</li>
 </ul>
 
-<h2>🔥 Some Tools I Use</h2>
+<h2>🔥 Some Tools We Use</h2>
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
