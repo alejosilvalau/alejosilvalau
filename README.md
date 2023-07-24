@@ -12,6 +12,13 @@
       src="https://img.shields.io/badge/-Portfolio-004aa8?style=for-the-badge&logo=Opsgenie"
       alt="portfolio"
   /></a> 
+    <a
+    target="_blank"
+    href="https://www.facebook.com/profile.php?id=100095195136344"
+    ><img
+      src="https://img.shields.io/badge/-Facebook-1977f2?style=for-the-badge&logo=Facebook&logoColor=white"
+      alt="facebook"
+  /></a>
   <a target="_blank" href="https://www.linkedin.com/company/alnixdigital"
     ><img
       src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn"
@@ -21,13 +28,6 @@
     ><img
       src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=Twitter&logoColor=white"
       alt="twitter"
-  /></a>
-  <a
-    target="_blank"
-    href="https://www.facebook.com/profile.php?id=100095195136344"
-    ><img
-      src="https://img.shields.io/badge/-Facebook-1977f2?style=for-the-badge&logo=Facebook&logoColor=white"
-      alt="facebook"
   /></a>
 </p>
 
@@ -62,7 +62,7 @@
   <li>
     🎓 Check out my
     <a
-      href="https://www.linkedin.com/company/alnixdigital"
+      href="https://img.shields.io/badge/-Facebook-1977f2?style=for-the-badge&logo=Facebook&logoColor=white"
       alt="experiene"
       >Experience / Case Studies</a
     >
