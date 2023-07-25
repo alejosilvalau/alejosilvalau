@@ -49,8 +49,7 @@
 <h2>Quick Facts</h2>
 <ul>
   <li>
-    🎯 Mastering <strong>WordPress</strong> and
-    <strong>PHP</strong>
+    🎯 Mastering <strong>TypeScript</strong>
   </li>
   <li>
     👨‍💻 Working on
