@@ -49,7 +49,7 @@
 <h2>Quick Facts</h2>
 <ul>
   <li>
-    🎯 Mastering <strong>TypeScript</strong>
+    🎯 Mastering <strong>TypeScript</strong> and <strong>Firebase</strong> 
   </li>
   <li>
     👨‍💻 Working on
