@@ -1,7 +1,8 @@
 <div align="center">
   <h1><a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>SUBSCRIBE</strong></a> For a Web Cookie🍪</h1><br>
   <p><strong>Let's Change The World With Websites!</strong></p><br>
-  <p>Crazy for Front End Development & Design, and Youtube</p><br>
+  <p>Crazy for Front End <b>Development & Design</b> </p><br>
+  <p>Passionated for <b>Youtube</b></p>
 </div>
 
 <h2>+ Info 👇</h2>
