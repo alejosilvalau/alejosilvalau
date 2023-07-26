@@ -35,7 +35,9 @@
 
 <img
   align="right"
-  src="https://historyuk.s3.eu-west-2.amazonaws.com/s3fs-public/2020-07/ancient-aliens-1.png"
+  width="500px"
+  heigth="250px"
+  src="https://www.livemint.com/lm-img/img/2023/06/09/1600x900/elon_musk_1679761905155_1686288511334.jpg"
   alt="web developer and designer"
 />
 
