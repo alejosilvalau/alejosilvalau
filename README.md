@@ -41,7 +41,7 @@
   alt="web developer and designer"
 />
 
-<h2>Quick Facts</h2>
+<h2 align="center">Quick Facts</h2>
 <ul>
   <li>
     🎯 Mastering <strong>TypeScript</strong> and <strong>Firebase</strong> 
@@ -69,7 +69,7 @@
   <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹</li>
 </ul>
 
-<h2>Some Tools I Use </h2>
+<h2 align="center">Some Tools I Use </h2>
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -199,7 +199,7 @@
   />
 </p>
 
-<h2>Some Stats</h2>
+<h2 align="center">Some Stats</h2>
 <br />
 <p align="center">
   <img
