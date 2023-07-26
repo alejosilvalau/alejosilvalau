@@ -8,6 +8,11 @@
 <h2>+ Info 👇</h2>
 
 <p align="center">
+  <a target="_blank" href="https://www.linkedin.com/company/alnixdigital"
+    ><img
+      src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn"
+      alt="linkedin"
+  /></a>
     <a target="_blank" href="https://alejosilvalau.netlify.app/">
       <img
       src="https://img.shields.io/badge/-Portfolio-004aa8?style=for-the-badge&logo=Opsgenie"
@@ -19,11 +24,6 @@
       src="https://img.shields.io/badge/-Youtube-b2071d?style=for-the-badge&logo=Youtube&logoColor=white"
       alt="twitter"/>
     </a>
-  <a target="_blank" href="https://www.linkedin.com/company/alnixdigital"
-    ><img
-      src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn"
-      alt="linkedin"
-  /></a>
   <a target="_blank" href="https://twitter.com/alnixdigital"
     ><img
       src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=Twitter&logoColor=white"
@@ -48,7 +48,7 @@
   </li>
   <li>
     👨‍💻 Working on
-    <a href="https://alnixdigital.com">alnixdigital.com</a>
+    <a href="https://www.youtube.com/@AlnixDigital">alnixdigital.com</a>
   </li>
   <li>
     💻 Take a look at our
@@ -61,9 +61,9 @@
   <li>
     🎓 Check out my
     <a
-      href="https://www.facebook.com/profile.php?id=100095195136344"
-      alt="experiene"
-      >Experience / Case Studies</a
+      href="https://drive.google.com/file/d/1B-TiA7zAFwGVhGAmUz4edoTvzlCjeUXL/view?usp=sharing"
+      alt="experience-resume"
+      >Experience / Resume</a
     >
   </li>
   <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹</li>
