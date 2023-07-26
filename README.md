@@ -35,9 +35,7 @@
 
 <img
   align="right"
-  width="400px"
-  height="250px"
-  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPenFU1VBG-tm4gY59Uem8cc1YdpCaMUrx9lXPCOHIaE10nts4ZAYUhSR2lhhKcvPYJJA&usqp=CAU"
+  src="https://historyuk.s3.eu-west-2.amazonaws.com/s3fs-public/2020-07/ancient-aliens-1.png"
   alt="web developer and designer"
 />
 
