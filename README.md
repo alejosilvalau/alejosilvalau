@@ -37,7 +37,7 @@
   align="right"
   width="500px"
   heigth="250px"
-  src="https://www.livemint.com/lm-img/img/2023/06/09/1600x900/elon_musk_1679761905155_1686288511334.jpg"
+  src="https://i.imgur.com/DFUQZW1.jpg"
   alt="web developer and designer"
 />
 
