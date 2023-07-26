@@ -8,7 +8,7 @@
 <h2>+ Info 👇</h2>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/company/alnixdigital"
+  <a target="_blank" href="https://www.linkedin.com/in/alejosilvalau/"
     ><img
       src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn"
       alt="linkedin"
