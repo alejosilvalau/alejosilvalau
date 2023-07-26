@@ -8,16 +8,17 @@
 <h2>+ Info 👇</h2>
 
 <p align="center">
+    <a target="_blank" href="https://alejosilvalau.netlify.app/"
+    ><img
+      src="https://img.shields.io/badge/-Portfolio-004aa8?style=for-the-badge&logo=Opsgenie"
+      alt="portfolio"
+  /></a> 
   <a target="_blank" href="https://www.youtube.com/@AlnixDigital"
     ><img
       src="https://img.shields.io/badge/-Youtube-b2071d?style=for-the-badge&logo=Youtube&logoColor=white"
       alt="twitter"
   /></a>
-  <a target="_blank" href="https://alnixdigital.com/"
-    ><img
-      src="https://img.shields.io/badge/-Portfolio-004aa8?style=for-the-badge&logo=Opsgenie"
-      alt="portfolio"
-  /></a> 
+
     <a
     target="_blank"
     href="https://www.facebook.com/profile.php?id=100095195136344"
