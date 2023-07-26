@@ -35,9 +35,7 @@
 
 <img
   align="right"
-  width="400px"
-  height="250px"
-  src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPenFU1VBG-tm4gY59Uem8cc1YdpCaMUrx9lXPCOHIaE10nts4ZAYUhSR2lhhKcvPYJJA&usqp=CAU"
   alt="web developer and designer"
 />
 
