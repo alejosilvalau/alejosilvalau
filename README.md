@@ -69,7 +69,7 @@
   <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹</li>
 </ul>
 
-<h2>🔥 Some Tools We Use</h2>
+<h2>Some Tools We Use 👾</h2>
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
