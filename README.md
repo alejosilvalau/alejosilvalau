@@ -51,7 +51,7 @@
     <a href="https://www.youtube.com/@AlnixDigital">alnixdigital.com</a>
   </li>
   <li>
-    💻 Take a look at our
+    💻 Take a look at 
     <a href="https://github.com/alejosilvalau?tab=repositories">Github</a>
   </li>
   <li>
