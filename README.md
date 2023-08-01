@@ -52,7 +52,7 @@
   </li>
   <li>
     💻 Take a look at our
-    <a href="https://github.com/alejosilvalau">Github</a>
+    <a href="https://github.com/alejosilvalau?tab=repositories">Github</a>
   </li>
   <li>
     💬 Ping me about
