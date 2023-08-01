@@ -48,11 +48,11 @@
   </li>
   <li>
     👨‍💻 Working on
-    <a href="https://www.youtube.com/@AlnixDigital">alnixdigital.com</a>
+    <a href="https://www.youtube.com/@AlnixDigital">Alnix Digital Youtube Channel</a>
   </li>
   <li>
     💻 Take a look at 
-    <a href="https://github.com/alejosilvalau?tab=repositories">Github</a>
+    <a href="https://github.com/alejosilvalau?tab=repositories">Github Repos</a>
   </li>
   <li>
     💬 Ping me about
