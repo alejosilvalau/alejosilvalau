@@ -52,7 +52,7 @@
   </li>
   <li>
     💻 Take a look at our
-    <a href="https://github.com/alnixdigital">Github</a>
+    <a href="https://github.com/alejosilvalau">Github</a>
   </li>
   <li>
     💬 Ping me about
