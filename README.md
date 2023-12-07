@@ -61,7 +61,7 @@
   <li>
     🎓 Check out my
     <a
-      href="https://drive.google.com/file/d/1B-TiA7zAFwGVhGAmUz4edoTvzlCjeUXL/view?usp=sharing"
+      href="https://drive.google.com/file/d/1jA4HBNJdaAWOs-FM_0qTME36tikZDCwi/view?usp=sharing"
       alt="experience-resume"
       >Experience / Resume</a
     >
