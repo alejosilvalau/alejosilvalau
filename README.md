@@ -48,7 +48,7 @@
   </li>
   <li>
     👨‍💻 Working on
-    <a href="https://www.youtube.com/@AlnixDigital">Alnix Digital Youtube Channel</a>
+    <a href="https://www.youtube.com/@AlnixDigital">Alnix Digital</a>
   </li>
   <li>
     💻 Take a look at 
