@@ -1,6 +1,6 @@
 <div align="center">
   <h1><strong>🍫 Let's Change The World With Apps and Data!</strong></h1><br>
-  <p>Crazy for <b>Front End Development & Data Science</b> </p><br>
+  <p>Crazy for <b>Front End & Data Science</b> </p><br>
   <p>👾 Passion for <b>Software</b></p>
   
 </div>
