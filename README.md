@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><strong>🍫 Let's Change The World With AI! </strong></h1><br>
+  <h1><strong>🍫 Let's Change The World With Data! </strong></h1><br>
   <p>Crazy for <b>Front End & Data Science</b> </p><br>
   <p>👾 Passion for <b>Web Dev</b></p>
   
