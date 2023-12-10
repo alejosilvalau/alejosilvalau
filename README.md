@@ -1,6 +1,6 @@
 <div align="center">
   <h1><strong>Let's Change The World With Web Apps! </strong></h1><br>
-  <p>Crazy for <b>Front End</b> 👾</p>
+  <p>👨‍💻 Crazy for <b>Front End</b> </p>
   <p>🍫 Passion for <b>Web Dev</b></p>
   
   
