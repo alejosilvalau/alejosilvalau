@@ -130,7 +130,7 @@
     height="40"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg"
     alt="redis"
     width="40"
     height="40"
