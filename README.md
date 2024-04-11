@@ -130,8 +130,8 @@
     height="40"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-    alt="express"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
+    alt="redis"
     width="40"
     height="40"
   />
