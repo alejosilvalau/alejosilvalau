@@ -45,7 +45,7 @@
 <br>
 <ul>
   <li>
-    🎯 Mastering <strong>TypeScript</strong> and <strong>GraphQL</strong> 
+    🎯 Mastering <strong>TypeScript</strong>, <strong>GraphQL</strong> and <strong>MySQL</strong> 
   </li>
   <li>
     👨‍💻 Working on
