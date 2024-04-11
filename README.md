@@ -23,7 +23,8 @@
     <a target="_blank" href="https://www.youtube.com/@AlnixDigital">
       <img
       src="https://img.shields.io/badge/-Youtube-b2071d?style=for-the-badge&logo=Youtube&logoColor=white"
-      alt="twitter"/>
+      alt="twitter"
+      />
     </a>
   <a target="_blank" href="https://twitter.com/alnixdigital"
     ><img
