@@ -84,7 +84,7 @@
     height="40"
   />      
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
     alt="react"
     width="40"
     height="40"
