@@ -70,7 +70,7 @@
   <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹</li>
 </ul>
 />
-<h2 style="margin-top:20px;">Some Tools I Use </h2>
+<h2 Some Tools I Use </h2>
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
