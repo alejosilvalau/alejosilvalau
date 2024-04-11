@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center"><strong>Impacting The World With Web Apps! </strong></h1><br>
   <p align="center">👨‍💻 Crazy for <b>Front End</b> </p>
-  <p align="center">🍫 Passion for <b>Web Dev</b></p>
+  <p align="center">Passion for <b>Web Dev</b> and <b>Mobile Games</b></p>
   
   
 </div>
@@ -58,7 +58,7 @@
   </li>
   <li>
     💬 Ping me about
-    <strong>JavaScript, React, and WordPress</strong>
+    <strong>JavaScript, React, and Unity</strong>
   </li>
   <li>
     🎓 Check out my
@@ -79,12 +79,11 @@
     width="35"
     height="35"
   />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
-    alt="jquery"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    alt="typescript"
     width="35"
-    height="35"
-  />
+    height="35"  
+  />      
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     alt="react"
@@ -97,6 +96,15 @@
     width="35"
     height="35"
   />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    alt="csharp"
+    width="35"
+    height="35"    
+    />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"   
+    alt="csharp"
+    width="35"
+    height="35" />        
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
     alt="nextjs"
@@ -145,24 +153,6 @@
     width="35"
     height="35"
   />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
-    alt="wordpress"
-    width="35"
-    height="35"
-  />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
-    alt="php"
-    width="35"
-    height="35"
-  />
-  <img
-    src="https://www.svgrepo.com/show/331577/shopify.svg"
-    alt="shopify"
-    width="35"
-    height="35"
-  />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
     alt="html5"
@@ -190,12 +180,6 @@
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
     alt="yarn"
-    width="35"
-    height="35"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
-    alt="figma"
     width="35"
     height="35"
   />
