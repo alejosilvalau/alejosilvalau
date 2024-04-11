@@ -124,7 +124,7 @@
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
     alt="nodejs"
     width="40"
     height="40"
