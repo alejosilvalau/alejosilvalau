@@ -41,6 +41,7 @@
   src="https://31.media.tumblr.com/db6a386e716b7f58c9cf0b86b33e83ad/tumblr_mgf0y2MZOB1rk2g45o1_500.gif"
   alt="web developer and designer"
   loop="true"
+  style="margin-bottom:20px;"
 />
 
 
