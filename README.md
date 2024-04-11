@@ -42,8 +42,7 @@
   alt="web developer and designer"
   loop="true"  
 />
-
-
+<
 <ul>
   <li>
     🎯 Mastering <strong>TypeScript</strong> and <strong>Firebase</strong> 
@@ -70,7 +69,7 @@
   </li>
   <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹</li>
 </ul>
-
+/>
 <h2 style="margin-top:20px;">Some Tools I Use </h2>
 <p align="center">
   <img
