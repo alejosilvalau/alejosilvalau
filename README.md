@@ -45,7 +45,7 @@
 <br>
 <ul>
   <li>
-    🎯 Mastering <strong>TypeScript</strong> and <strong>Firebase</strong> 
+    🎯 Mastering <strong>TypeScript</strong> and <strong>GraphQL</strong> 
   </li>
   <li>
     👨‍💻 Working on
