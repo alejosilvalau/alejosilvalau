@@ -33,16 +33,17 @@
 </p>
 
 <p align="center">🍫 Don't forget to <a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>SUBSCRIBE</strong></a>!🍫</p>
-
+<h2>Quick Facts</h2>
 <img
   align="right"
   width="500px"
-  heigth="250px"
-  src="https://i.imgur.com/DFUQZW1.jpg"
+  heigth="205px"
+  src="https://31.media.tumblr.com/db6a386e716b7f58c9cf0b86b33e83ad/tumblr_mgf0y2MZOB1rk2g45o1_500.gif"
   alt="web developer and designer"
+  loop="true"
 />
 
-<h2>Quick Facts</h2>
+
 <ul>
   <li>
     🎯 Mastering <strong>TypeScript</strong> and <strong>Firebase</strong> 
