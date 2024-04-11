@@ -136,7 +136,7 @@
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg"
     alt="graphql"
     width="40"
     height="40"
