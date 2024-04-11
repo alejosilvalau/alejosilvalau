@@ -1,7 +1,7 @@
 <div align="center">
-  <h1><strong>Impacting The World With Web Apps! </strong></h1><br>
-  <p>👨‍💻 Crazy for <b>Front End</b> </p>
-  <p>🍫 Passion for <b>Web Dev</b></p>
+  <h1 align="center"><strong>Impacting The World With Web Apps! </strong></h1><br>
+  <p align="center">👨‍💻 Crazy for <b>Front End</b> </p>
+  <p align="center">🍫 Passion for <b>Web Dev</b></p>
   
   
 </div>
