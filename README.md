@@ -43,7 +43,7 @@
   alt="web developer and designer"
   loop="true"  
 />
-<br>
+</br>
 <ul>
   <li>
     🎯 Mastering <strong>TypeScript</strong>, <strong>GraphQL</strong> and <strong>MySQL</strong> 
