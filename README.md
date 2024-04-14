@@ -68,7 +68,7 @@
       >Experience / Resume</a
     >
   </li>
-  <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹</li>
+  <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹 and a bit of 🇫🇷</li>
 </ul>
 
 <h2>Some Tools I Use </h2>
