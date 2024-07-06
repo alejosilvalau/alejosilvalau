@@ -43,8 +43,6 @@
   alt="web developer and designer"
   loop="true"  
 />
-</br>
-</br>
 <ul>
   <li>
     🎯 Mastering <strong>TypeScript</strong>, <strong>GraphQL</strong> and <strong>MySQL</strong> 
@@ -70,6 +68,7 @@
     >
   </li>
   <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹 and a bit of 🇫🇷</li>
+  <li>🍫 And I love Chocolate</li>
 </ul>
 
 <h2>Some Tools I Use </h2>
