@@ -192,7 +192,7 @@
   <img
     width="370px"
     alt="Eternal's GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=alejosilvalau&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787"
+    src="https://github-readme-streak-stats-ruby-one.vercel.app?user=alejosilvalau&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787"
   />
 <img
     width="370px"
