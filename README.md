@@ -107,6 +107,12 @@
     height="40"
   />        
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+    alt="php"
+    width="40"
+    height="40"
+  />
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
     alt="nextjs"
     width="40"
@@ -115,12 +121,6 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"
     alt="bootstrap"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"
-    alt="d3js"
     width="40"
     height="40"
   />
