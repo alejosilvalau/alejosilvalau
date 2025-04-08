@@ -20,13 +20,13 @@
       alt="portfolio"
       />
     </a> 
-    <a target="_blank" href="https://www.youtube.com/@AlnixDigital">
+    <a target="_blank" href="https://www.youtube.com/@AlnixDev">
       <img
       src="https://img.shields.io/badge/-Youtube-b2071d?style=for-the-badge&logo=Youtube&logoColor=white"
       alt="twitter"
       />
     </a>
-  <a target="_blank" href="https://twitter.com/alnixdigital"
+  <a target="_blank" href="https://twitter.com/alnixdev"
     ><img
       src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=Twitter&logoColor=white"
       alt="twitter"
