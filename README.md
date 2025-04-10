@@ -49,7 +49,7 @@
   </li>
   <li>
     👨‍💻 Working on
-    <a href="https://www.youtube.com/@AlnixDigital">Alnix Digital</a>
+    <a href="https://www.youtube.com/@AlnixDev">Alnix</a>
   </li>
   <li>
     💻 Take a look at 
