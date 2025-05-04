@@ -56,8 +56,7 @@
     <a href="https://github.com/alejosilvalau?tab=repositories">Github Repos</a>
   </li>
   <li>
-    💬 Ping me about
-    <strong>JavaScript, React, and Unity</strong>
+    🛂 I have <strong>Argentinian and Spanish citizenship</strong>
   </li>
   <li>
     🎓 Check out my
