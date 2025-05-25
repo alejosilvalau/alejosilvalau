@@ -33,7 +33,7 @@
   /></a>
 </p>
 
-<p align="center">Don't forget to <a href="https://www.youtube.com/@AlnixDigital" target="_blank"><strong>SUBSCRIBE</strong></a>!</p>
+<p align="center">Don't forget to <a href="https://www.youtube.com/@AlnixDev" target="_blank"><strong>SUBSCRIBE</strong></a>!</p>
 <h2>Quick Facts</h2>
 <img
   align="right"
