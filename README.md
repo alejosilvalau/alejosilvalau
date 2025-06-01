@@ -56,7 +56,7 @@
     <a href="https://github.com/alejosilvalau?tab=repositories">Github Repos</a>
   </li>
   <li>
-    🛂 I have <strong>Argentinian and Spanish citizenship</strong>
+    🛂 I have <strong>Argentinian and Spanish citizenships</strong>
   </li>
   <li>
     🎓 Check out my
