@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center"><strong>Hello World, I'm Alejo!</strong></h1><br>
-  <p align="center">Making <b>Mobile Games</b> and <b>Web Apps</b></p>
+  <p align="center">Making <b>Web Apps</b> and <b>Indie Games</b></p>
   <p align="center">👨‍💻 Crazy for <b>Web and Game Development</b></p>
   
   
