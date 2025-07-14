@@ -52,7 +52,7 @@
     <a href="https://www.youtube.com/@AlnixDev">AlnixDev</a>
   </li>
   <li>
-    💻 Take a look at 
+    👁️ Take a look at 
     <a href="https://github.com/alejosilvalau?tab=repositories">Github Repos</a>
   </li>
   <li>
@@ -66,7 +66,7 @@
       >Experience / Resume</a
     >
   </li>
-  <li>🎉 Fun Fact: I speak <strong>Spanish, English and Italian</strong></li>
+  <li>🤌 I speak <strong>Spanish, English and Italian</strong></li>
   <li>🍫 And I love Chocolate</li>
 </ul>
 
