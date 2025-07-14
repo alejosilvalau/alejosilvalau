@@ -66,7 +66,7 @@
       >Experience / Resume</a
     >
   </li>
-  <li>🎉 Fun Fact: I speak 🇪🇸 🇬🇧 🇮🇹 and a bit of 🇫🇷</li>
+  <li>🎉 Fun Fact: I speak <strong>Spanish, English and Italian</strong></li>
   <li>🍫 And I love Chocolate</li>
 </ul>
 
