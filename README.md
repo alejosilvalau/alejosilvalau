@@ -45,7 +45,7 @@
 />
 <ul>
   <li>
-    🎯 Mastering <strong>TypeScript</strong>, <strong>GraphQL</strong> and <strong>MySQL</strong> 
+    🎯 Mastering <strong>ML, Deep Learning & Cloud (AWS, Docker, etc.)</strong>
   </li>
   <li>
     👨‍💻 Working on
