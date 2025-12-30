@@ -48,7 +48,7 @@
     🎯 Mastering <strong>ML, Deep Learning & Cloud (AWS, Docker, etc.)</strong>
   </li>
   <li>
-    👨‍💻 Working on
+    👨‍💻 Creating things at
     <a href="https://www.youtube.com/@AlnixDev">AlnixDev</a>
   </li>
   <li>
@@ -67,7 +67,9 @@
     >
   </li>
   <li>🤌 I speak <strong>Spanish, English and Italian</strong></li>
-  <li>🍫 And I love Chocolate</li>
+  <li>
+    ⌨️ Currently rewriting my NeoVim config for the 400th time
+  </li>
 </ul>
 
 <h2>Some Tools I Use </h2>
@@ -199,3 +201,4 @@
     src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff"
   />
 </p>
+
