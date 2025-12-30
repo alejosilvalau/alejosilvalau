@@ -68,7 +68,7 @@
   </li>
   <li>🤌 I speak <strong>Spanish, English and Italian</strong></li>
   <li>
-    ⌨️ Currently rewriting my NeoVim config for the 400th time
+    ⌨️ Tinkering with my NeoVim config for the 400th time
   </li>
 </ul>
 
@@ -201,4 +201,5 @@
     src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff"
   />
 </p>
+
 
