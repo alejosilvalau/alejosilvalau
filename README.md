@@ -39,7 +39,7 @@
   <img
     align="right"
     width="500"
-    style="max-width: 100%; height: auto; padding-left: 20px; padding-bottom: 10px;"
+    style="max-width: 100%; height: auto; object-fit: cover; object-position: right; padding-left: 20px; padding-bottom: 10px;"
     src="https://31.media.tumblr.com/db6a386e716b7f58c9cf0b86b33e83ad/tumblr_mgf0y2MZOB1rk2g45o1_500.gif"
     alt="web developer and designer"
   />
@@ -202,6 +202,7 @@
     src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff"
   /> -->
 </p>
+
 
 
 
