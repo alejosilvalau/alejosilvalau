@@ -48,7 +48,7 @@
 <p>👨‍💻 Creating things at <a href="https://www.youtube.com/@AlnixDev">AlnixDev</a></p>
 <p>👁️ Take a look at <a href="https://github.com/alejosilvalau?tab=repositories">Github Repos</a></p>
 <p>🛂 I have <strong>Argentinian and Spanish citizenships</strong></p>
-<p>🎓 Check out my <a href="https://drive.google.com/file/d/1rV_UEmp1fGNBRZczxI4xGEYI5HgQSPEM/view?usp=sharing" alt="experience-resume">Experience / Resume</a></p>
+<p>🎓 Check out my <a href="https://drive.google.com/file/d/1jA4HBNJdaAWOs-FM_0qTME36tikZDCwi/view?usp=sharing" alt="experience-resume">Experience / Resume</a></p>
 <p>🤌 I speak <strong>Spanish, English and Italian</strong></p>
 <p>⌨️ Tinkering with my NeoVim config for the 400th time</p>
 </div>
@@ -182,6 +182,7 @@
     src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff"
   /> -->
 </p>
+
 
 
 
