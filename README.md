@@ -37,8 +37,8 @@
 <h2>Quick Facts</h2>
 <img
   align="right"
-  width="200px"
-  heigth="200px"
+  width="150px"
+  heigth="150px"
   src="https://media.tenor.com/iCqG_iT-h48AAAAM/bills-ugh.gif"
   alt="web developer and designer"
   loop="true"  
@@ -201,6 +201,7 @@
     src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff"
   /> -->
 </p>
+
 
 
 
