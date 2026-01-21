@@ -35,43 +35,42 @@
 
 <p align="center">Don't forget to <a href="https://www.youtube.com/@AlnixDev" target="_blank"><strong>SUBSCRIBE</strong></a>!</p>
 <h2>Quick Facts</h2>
-<div>
-  <img
-    align="right"
-    width="500"
-    style="max-width: 100%; height: auto; object-fit: cover; object-position: right; padding-left: 20px; padding-bottom: 10px;"
-    src="https://31.media.tumblr.com/db6a386e716b7f58c9cf0b86b33e83ad/tumblr_mgf0y2MZOB1rk2g45o1_500.gif"
-    alt="web developer and designer"
-  />
-  <ul>
-    <li>
-      🎯 Mastering <strong>ML, Deep Learning & Cloud (AWS, Docker, etc.)</strong>
-    </li>
-    <li>
-      👨‍💻 Creating things at
-      <a href="https://www.youtube.com/@AlnixDev">AlnixDev</a>
-    </li>
-    <li>
-      👁️ Take a look at 
-      <a href="https://github.com/alejosilvalau?tab=repositories">Github Repos</a>
-    </li>
-    <li>
-      🛂 I have <strong>Argentinian and Spanish citizenships</strong>
-    </li>
-    <li>
-      🎓 Check out my
-     <a   
-        href="https://drive.google.com/file/d/1jA4HBNJdaAWOs-FM_0qTME36tikZDCwi/view?usp=sharing"
-        alt="experience-resume"
-        >Experience / Resume</a
-      >
-    </li>
-    <li>🤌 I speak <strong>Spanish, English and Italian</strong></li>
-    <li>
-      ⌨️ Tinkering with my NeoVim config for the 400th time
-    </li>
-  </ul>
-</div>
+<img
+  align="right"
+  width="200px"
+  heigth="200px"
+  src="https://media.tenor.com/iCqG_iT-h48AAAAM/bills-ugh.gif"
+  alt="web developer and designer"
+  loop="true"  
+/>
+<ul>
+  <li>
+    🎯 Mastering <strong>ML, Deep Learning & Cloud (AWS, Docker, etc.)</strong>
+  </li>
+  <li>
+    👨‍💻 Creating things at
+    <a href="https://www.youtube.com/@AlnixDev">AlnixDev</a>
+  </li>
+  <li>
+    👁️ Take a look at 
+    <a href="https://github.com/alejosilvalau?tab=repositories">Github Repos</a>
+  </li>
+  <li>
+    🛂 I have <strong>Argentinian and Spanish citizenships</strong>
+  </li>
+  <li>
+    🎓 Check out my
+    <a
+      href="https://drive.google.com/file/d/1jA4HBNJdaAWOs-FM_0qTME36tikZDCwi/view?usp=sharing"
+      alt="experience-resume"
+      >Experience / Resume</a
+    >
+  </li>
+  <li>🤌 I speak <strong>Spanish, English and Italian</strong></li>
+  <li>
+    ⌨️ Tinkering with my NeoVim config for the 400th time
+  </li>
+</ul>
 
 <h2>Some Tools I Use </h2>
 <p align="center">
@@ -202,6 +201,7 @@
     src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff"
   /> -->
 </p>
+
 
 
 
