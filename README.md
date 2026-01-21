@@ -37,8 +37,7 @@
 <h2>Quick Facts</h2>
 <img
   align="right"
-  width="500px"
-  heigth="205px"
+  style="max-width: 500px; width: 100%; height: auto;"
   src="https://31.media.tumblr.com/db6a386e716b7f58c9cf0b86b33e83ad/tumblr_mgf0y2MZOB1rk2g45o1_500.gif"
   alt="web developer and designer"
   loop="true"  
@@ -201,6 +200,7 @@
     src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff"
   /> -->
 </p>
+
 
 
 
