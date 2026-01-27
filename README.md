@@ -112,18 +112,6 @@
     height="40"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-    alt="bootstrap"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-    alt="tailwind"
-    width="40"
-    height="40"
-  />
-  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript"
     width="40"
@@ -311,6 +299,7 @@
     src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff"
   /> -->
 </p>
+
 
 
 
