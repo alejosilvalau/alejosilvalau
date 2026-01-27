@@ -243,7 +243,7 @@
     height="40"
   />
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" 
     alt="dot net"
     width="40"
     height="40"
@@ -278,7 +278,7 @@
     height="40"
   />
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg" 
     alt="hibernate"
     width="40"
     height="40"
@@ -299,6 +299,7 @@
     src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff"
   /> -->
 </p>
+
 
 
 
