@@ -1,6 +1,8 @@
 <div align="center">
   <h1 align="center"><strong>Hello World, I'm Alejo!</strong></h1><br>
-  <p align="center">👨‍💻 Making <b>Web and Mobile Apps</b> 💻 📱</p> 
+  <p align="center">👨‍💻 Making <b>Web and Mobile Apps</b> 💻 📱</p>
+
+ 
 </div>
 
 <h2 align="center">More Info 👇</h2>
@@ -122,6 +124,12 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
     alt="react"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original-wordmark.svg"
+    alt="expo"
     width="40"
     height="40"
   />
@@ -251,11 +259,6 @@
     width="40"
     height="40"
   />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"   
-    alt="unity"
-    width="40"
-    height="40"
-  />  
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
     alt="java"
@@ -296,6 +299,7 @@
     src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff"
   /> -->
 </p>
+
 
 
 
