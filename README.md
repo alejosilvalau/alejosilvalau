@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center"><strong>Hello World, I'm Alejo!</strong></h1><br>
-  <p align="center">Making <b>Web and Mobile Apps</b></p> 
+  <p align="center">👨‍💻 Making <b>Web and Mobile Apps</b> 💻 📱</p> 
 </div>
 
 <h2 align="center">More Info 👇</h2>
