@@ -1,12 +1,9 @@
 <div align="center">
   <h1 align="center"><strong>Hello World, I'm Alejo!</strong></h1><br>
   <p align="center">👨‍💻 Making <b>Web and Mobile Apps</b> 💻 📱</p>
-
- 
 </div>
-
+<br>
 <h2 align="center">More Info 👇</h2>
-
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/alejosilvalau/">
     <img
@@ -35,7 +32,8 @@
 </p>
 
 <p align="center">Don't forget to <a href="https://www.youtube.com/@AlnixDev" target="_blank"><strong>SUBSCRIBE</strong></a>!</p>
-<h2>Quick Facts</h2>
+<br>
+<h2 align="center">Quick Facts</h2>
 <!-- <img
   align="right"
   width="550px"
@@ -53,8 +51,8 @@
 <p>🤌 I speak <strong>Spanish, English and Italian</strong></p>
 <p>⌨️ Tinkering with my NeoVim config for the 400th time</p>
 </div>
-
-<h2>Some Tools I Use </h2>
+<br>
+<h2 align="center">Some Tools I Use </h2>
 <p align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -285,8 +283,8 @@
   />
 </p>
 
+<br>
 <h2 align="center">Some Stats</h2>
-<br />
 <p align="center">
   <img
     width="370px"
@@ -299,6 +297,7 @@
     src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff"
   /> -->
 </p>
+
 
 
 
