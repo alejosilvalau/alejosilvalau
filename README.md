@@ -53,7 +53,7 @@
 </div>
 <br>
 <h2 align="center">Some Tools I Use </h2>
-<p align="center">
+<div align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
     alt="python"
@@ -281,7 +281,7 @@
     width="40"
     height="40"
   />
-</p>
+</div>
 
 <br>
 <h2 align="center">Some Stats</h2>
@@ -297,6 +297,7 @@
     src="https://github-readme-stats.vercel.app/api?username=alejosilvalau&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff"
   /> -->
 </p>
+
 
 
 
