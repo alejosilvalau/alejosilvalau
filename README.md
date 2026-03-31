@@ -3,6 +3,25 @@
   <p align="center">👨‍💻 Making <b>Web and Mobile Apps</b> 💻 📱</p>
 </div>
 <br>
+<h2 align="center">Quick Facts</h2>
+<!-- <img
+  align="right"
+  width="550px"
+  heigth="250px"
+  src="https://31.media.tumblr.com/db6a386e716b7f58c9cf0b86b33e83ad/tumblr_mgf0y2MZOB1rk2g45o1_500.gif"
+  alt="web developer and designer"
+  loop="true"  
+/> -->
+<div align="center">
+<p>🎯 Mastering <strong>ML, Deep Learning & Cloud (AWS, Docker, etc.)</strong></p>
+<p>👨‍💻 Creating things at <a href="https://www.youtube.com/@AlnixDev">AlnixDev</a></p>
+<p>👁️ Take a look at <a href="https://github.com/alejosilvalau?tab=repositories">Github Repos</a></p>
+<p>🛂 I have <strong>Argentinian and Spanish citizenships</strong></p>
+<p>🎓 Check out my <a href="https://drive.google.com/file/d/1rV_UEmp1fGNBRZczxI4xGEYI5HgQSPEM/view?usp=sharing" alt="experience-resume">Experience / Resume</a></p>
+<p>🤌 I speak <strong>Spanish, English and Italian</strong></p>
+<p>⌨️ Tinkering with my NeoVim config for the 400th time</p>
+</div>
+<br>
 <h2 align="center">More Info 👇</h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/alejosilvalau/">
@@ -32,25 +51,7 @@
 </p>
 
 <p align="center">Don't forget to <a href="https://www.youtube.com/@AlnixDev" target="_blank"><strong>SUBSCRIBE</strong></a>!</p>
-<br>
-<h2 align="center">Quick Facts</h2>
-<!-- <img
-  align="right"
-  width="550px"
-  heigth="250px"
-  src="https://31.media.tumblr.com/db6a386e716b7f58c9cf0b86b33e83ad/tumblr_mgf0y2MZOB1rk2g45o1_500.gif"
-  alt="web developer and designer"
-  loop="true"  
-/> -->
-<div align="center">
-<p>🎯 Mastering <strong>ML, Deep Learning & Cloud (AWS, Docker, etc.)</strong></p>
-<p>👨‍💻 Creating things at <a href="https://www.youtube.com/@AlnixDev">AlnixDev</a></p>
-<p>👁️ Take a look at <a href="https://github.com/alejosilvalau?tab=repositories">Github Repos</a></p>
-<p>🛂 I have <strong>Argentinian and Spanish citizenships</strong></p>
-<p>🎓 Check out my <a href="https://drive.google.com/file/d/1rV_UEmp1fGNBRZczxI4xGEYI5HgQSPEM/view?usp=sharing" alt="experience-resume">Experience / Resume</a></p>
-<p>🤌 I speak <strong>Spanish, English and Italian</strong></p>
-<p>⌨️ Tinkering with my NeoVim config for the 400th time</p>
-</div>
+
 <br>
 <h2 align="center">Some Tools I Use </h2>
 <div align="center">
